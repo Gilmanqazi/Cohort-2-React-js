@@ -4,7 +4,7 @@ import HeadphoneImg from "../assets/person_headphones (3).png"
 const Secondpage = () => {
   return (
     <div>
-       <div className=' text-black min-h-[70vh] w-[100%] '>
+       <div className=' text-black min-h-[70vh] w-full '>
    <div className='flex py-10 px-5 justify-between'>
     <h1 className='text-8xl'>Designed to <br /> Help You Do <br /> More <i>With Less Stress</i></h1>
     <p className='text-[1.5rem] pt-40'>Our productivity app is build for <br /> modern professionals who <br /> want to stay organized focused and in controll</p>

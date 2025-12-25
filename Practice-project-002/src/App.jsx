@@ -62,7 +62,7 @@ const App = () => {
   
   return (
 
-    <div className='flex flex-col ' >
+    <div className='flex flex-col ' >;
      
     <h1 className='text-center items-center h-10 flex justify-center gap-3'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, vitae. <span className='py-05 px-1 bg-black text-white rounded-2xl'>20.4%</span></h1>
     <div className='h-screen w-full bg-[url("https://images.unsplash.com/photo-1638519929050-a61ae4feb487?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")] bg-cover bg-center opacity-90'>

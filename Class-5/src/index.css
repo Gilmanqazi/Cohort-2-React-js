@@ -7,3 +7,38 @@ html, body{
 height: 100%;
 width:100%;
 }
+.parent{
+    margin: 20px;
+}
+button{
+    padding: 10px 20px;
+    background-color: lightseagreen;
+    color: white;
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+button:active{
+    scale: 0.95;
+}
+.Women{
+   width: fit-content;
+   padding: 20px 40px;
+   font-size: 30px;
+   font-weight: 600;
+   background-color:rgb(231, 19, 54);
+   color: white;
+   border-radius: 10px;
+}
+
+.Men{
+    width: fit-content;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: 600;
+    background-color:rgb(33, 19, 231);
+    color: white;
+   border-radius: 10px;
+
+}
